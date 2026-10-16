@@ -1,0 +1,135 @@
+sex_name,ckd_cat,any_tx,cancer_type,count
+Male,<=15,None,Prostate,127
+Male,<=15,None,Colorectal,19
+Male,<=15,None,Lung and bronchus,47
+Male,<=15,None,Renal/urinary tract,72
+Male,<=15,Treatment,Prostate,52
+Male,<=15,Treatment,Colorectal,20
+Male,<=15,Treatment,Renal/urinary tract,61
+Male,>15-30,None,Prostate,432
+Male,>15-30,None,Colorectal,161
+Male,>15-30,None,Lung and bronchus,313
+Male,>15-30,None,Melanoma,22
+Male,>15-30,None,Renal/urinary tract,225
+Male,>15-30,Treatment,Prostate,207
+Male,>15-30,Treatment,Colorectal,191
+Male,>15-30,Treatment,Lung and bronchus,40
+Male,>15-30,Treatment,Melanoma,50
+Male,>15-30,Treatment,Renal/urinary tract,324
+Male,>30-45,None,Prostate,1253
+Male,>30-45,None,Colorectal,455
+Male,>30-45,None,Lung and bronchus,963
+Male,>30-45,None,Melanoma,48
+Male,>30-45,None,Renal/urinary tract,575
+Male,>30-45,Treatment,Prostate,695
+Male,>30-45,Treatment,Colorectal,634
+Male,>30-45,Treatment,Lung and bronchus,171
+Male,>30-45,Treatment,Melanoma,204
+Male,>30-45,Treatment,Renal/urinary tract,787
+Male,>45-60,None,Prostate,3059
+Male,>45-60,None,Colorectal,728
+Male,>45-60,None,Lung and bronchus,1611
+Male,>45-60,None,Melanoma,111
+Male,>45-60,None,Renal/urinary tract,808
+Male,>45-60,Treatment,Prostate,1682
+Male,>45-60,Treatment,Colorectal,1604
+Male,>45-60,Treatment,Lung and bronchus,478
+Male,>45-60,Treatment,Melanoma,424
+Male,>45-60,Treatment,Renal/urinary tract,1242
+Male,>60-90,None,Prostate,11684
+Male,>60-90,None,Colorectal,2052
+Male,>60-90,None,Lung and bronchus,5296
+Male,>60-90,None,Melanoma,413
+Male,>60-90,None,Renal/urinary tract,1626
+Male,>60-90,Treatment,Prostate,7731
+Male,>60-90,Treatment,Colorectal,6570
+Male,>60-90,Treatment,Lung and bronchus,1988
+Male,>60-90,Treatment,Melanoma,1628
+Male,>60-90,Treatment,Renal/urinary tract,2979
+Male,>90-105,None,Prostate,2832
+Male,>90-105,None,Colorectal,609
+Male,>90-105,None,Lung and bronchus,1850
+Male,>90-105,None,Melanoma,107
+Male,>90-105,None,Renal/urinary tract,399
+Male,>90-105,Treatment,Prostate,2257
+Male,>90-105,Treatment,Colorectal,2288
+Male,>90-105,Treatment,Lung and bronchus,973
+Male,>90-105,Treatment,Melanoma,471
+Male,>90-105,Treatment,Renal/urinary tract,721
+Male,>105,None,Prostate,115
+Male,>105,None,Colorectal,129
+Male,>105,None,Lung and bronchus,400
+Male,>105,None,Melanoma,12
+Male,>105,None,Renal/urinary tract,89
+Male,>105,Treatment,Prostate,108
+Male,>105,Treatment,Colorectal,324
+Male,>105,Treatment,Lung and bronchus,168
+Male,>105,Treatment,Melanoma,87
+Male,>105,Treatment,Renal/urinary tract,122
+Female,<=15,None,Breast,16
+Female,<=15,None,Colorectal,10
+Female,<=15,None,Lung and bronchus,20
+Female,<=15,None,Renal/urinary tract,36
+Female,<=15,Treatment,Breast,20
+Female,<=15,Treatment,Colorectal,10
+Female,<=15,Treatment,Renal/urinary tract,36
+Female,>15-30,None,Breast,107
+Female,>15-30,None,Colorectal,119
+Female,>15-30,None,Lung and bronchus,274
+Female,>15-30,None,Melanoma,13
+Female,>15-30,None,Renal/urinary tract,178
+Female,>15-30,Treatment,Breast,274
+Female,>15-30,Treatment,Colorectal,122
+Female,>15-30,Treatment,Lung and bronchus,27
+Female,>15-30,Treatment,Melanoma,32
+Female,>15-30,Treatment,Renal/urinary tract,124
+Female,>30-45,None,Breast,303
+Female,>30-45,None,Colorectal,402
+Female,>30-45,None,Lung and bronchus,881
+Female,>30-45,None,Melanoma,54
+Female,>30-45,None,Renal/urinary tract,349
+Female,>30-45,Treatment,Breast,1121
+Female,>30-45,Treatment,Colorectal,553
+Female,>30-45,Treatment,Lung and bronchus,125
+Female,>30-45,Treatment,Melanoma,176
+Female,>30-45,Treatment,Renal/urinary tract,348
+Female,>45-60,None,Breast,579
+Female,>45-60,None,Colorectal,605
+Female,>45-60,None,Lung and bronchus,1526
+Female,>45-60,None,Melanoma,79
+Female,>45-60,None,Renal/urinary tract,457
+Female,>45-60,Treatment,Breast,2725
+Female,>45-60,Treatment,Colorectal,1260
+Female,>45-60,Treatment,Lung and bronchus,390
+Female,>45-60,Treatment,Melanoma,322
+Female,>45-60,Treatment,Renal/urinary tract,507
+Female,>60-90,None,Breast,1784
+Female,>60-90,None,Colorectal,1650
+Female,>60-90,None,Lung and bronchus,4630
+Female,>60-90,None,Melanoma,335
+Female,>60-90,None,Renal/urinary tract,869
+Female,>60-90,Treatment,Breast,9876
+Female,>60-90,Treatment,Colorectal,4616
+Female,>60-90,Treatment,Lung and bronchus,1903
+Female,>60-90,Treatment,Melanoma,1281
+Female,>60-90,Treatment,Renal/urinary tract,1134
+Female,>90-105,None,Breast,635
+Female,>90-105,None,Colorectal,361
+Female,>90-105,None,Lung and bronchus,1542
+Female,>90-105,None,Melanoma,98
+Female,>90-105,None,Renal/urinary tract,177
+Female,>90-105,Treatment,Breast,3387
+Female,>90-105,Treatment,Colorectal,1375
+Female,>90-105,Treatment,Lung and bronchus,853
+Female,>90-105,Treatment,Melanoma,458
+Female,>90-105,Treatment,Renal/urinary tract,270
+Female,>105,None,Breast,106
+Female,>105,None,Colorectal,66
+Female,>105,None,Lung and bronchus,182
+Female,>105,None,Melanoma,24
+Female,>105,None,Renal/urinary tract,45
+Female,>105,Treatment,Breast,710
+Female,>105,Treatment,Colorectal,259
+Female,>105,Treatment,Lung and bronchus,124
+Female,>105,Treatment,Melanoma,157
+Female,>105,Treatment,Renal/urinary tract,51

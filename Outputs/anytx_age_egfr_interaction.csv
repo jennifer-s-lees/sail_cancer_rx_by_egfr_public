@@ -1,0 +1,11 @@
+"","sex","term","OR","95% Confidence Interval","p.value"
+"1","Male","ns(egfr, df = 5)1:age10",0.88,"0.73 - 1.06",0.178
+"2","Male","ns(egfr, df = 5)2:age10",0.82,"0.66 - 1.01",0.058
+"3","Male","ns(egfr, df = 5)3:age10",1.11,"0.95 - 1.29",0.2
+"4","Male","ns(egfr, df = 5)4:age10",0.7,"0.43 - 1.16",0.165
+"5","Male","ns(egfr, df = 5)5:age10",1,"0.62 - 1.6",1
+"6","Female","ns(egfr, df = 5)1:age10",0.88,"0.73 - 1.06",0.178
+"7","Female","ns(egfr, df = 5)2:age10",0.82,"0.66 - 1.01",0.058
+"8","Female","ns(egfr, df = 5)3:age10",1.11,"0.95 - 1.29",0.2
+"9","Female","ns(egfr, df = 5)4:age10",0.7,"0.43 - 1.16",0.165
+"10","Female","ns(egfr, df = 5)5:age10",1,"0.62 - 1.6",1

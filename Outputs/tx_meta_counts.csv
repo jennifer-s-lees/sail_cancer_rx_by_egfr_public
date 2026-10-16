@@ -1,0 +1,57 @@
+sex_name,any_tx,cancer_type,m_stage,count
+Male,None,Prostate,Metastatic,1478
+Male,None,Prostate,Not metastatic,8242
+Male,None,Prostate,Unknown,9782
+Male,None,Colorectal,Metastatic,907
+Male,None,Colorectal,Not metastatic,1061
+Male,None,Colorectal,Unknown,2185
+Male,None,Lung and bronchus,Metastatic,2800
+Male,None,Lung and bronchus,Not metastatic,2621
+Male,None,Lung and bronchus,Unknown,5059
+Male,None,Melanoma,Not metastatic,75
+Male,None,Melanoma,Unknown,631
+Male,None,Renal/urinary tract,Metastatic,278
+Male,None,Renal/urinary tract,Not metastatic,566
+Male,None,Renal/urinary tract,Unknown,2950
+Male,Treatment,Prostate,Metastatic,1403
+Male,Treatment,Prostate,Not metastatic,6450
+Male,Treatment,Prostate,Unknown,4879
+Male,Treatment,Colorectal,Metastatic,1116
+Male,Treatment,Colorectal,Not metastatic,5158
+Male,Treatment,Colorectal,Unknown,5357
+Male,Treatment,Lung and bronchus,Metastatic,926
+Male,Treatment,Lung and bronchus,Not metastatic,1478
+Male,Treatment,Lung and bronchus,Unknown,1416
+Male,Treatment,Melanoma,Not metastatic,659
+Male,Treatment,Melanoma,Unknown,2206
+Male,Treatment,Renal/urinary tract,Metastatic,183
+Male,Treatment,Renal/urinary tract,Not metastatic,2910
+Male,Treatment,Renal/urinary tract,Unknown,3143
+Female,None,Breast,Metastatic,107
+Female,None,Breast,Not metastatic,312
+Female,None,Breast,Unknown,3111
+Female,None,Colorectal,Metastatic,641
+Female,None,Colorectal,Not metastatic,815
+Female,None,Colorectal,Unknown,1757
+Female,None,Lung and bronchus,Metastatic,2166
+Female,None,Lung and bronchus,Not metastatic,2341
+Female,None,Lung and bronchus,Unknown,4548
+Female,None,Melanoma,Not metastatic,51
+Female,None,Melanoma,Unknown,549
+Female,None,Renal/urinary tract,Metastatic,128
+Female,None,Renal/urinary tract,Not metastatic,314
+Female,None,Renal/urinary tract,Unknown,1669
+Female,Treatment,Breast,Metastatic,321
+Female,Treatment,Breast,Not metastatic,6199
+Female,Treatment,Breast,Unknown,11593
+Female,Treatment,Colorectal,Metastatic,718
+Female,Treatment,Colorectal,Not metastatic,3542
+Female,Treatment,Colorectal,Unknown,3935
+Female,Treatment,Lung and bronchus,Metastatic,726
+Female,Treatment,Lung and bronchus,Not metastatic,1366
+Female,Treatment,Lung and bronchus,Unknown,1336
+Female,Treatment,Melanoma,Not metastatic,526
+Female,Treatment,Melanoma,Unknown,1899
+Female,Treatment,Renal/urinary tract,Metastatic,99
+Female,Treatment,Renal/urinary tract,Not metastatic,1109
+Female,Treatment,Renal/urinary tract,Unknown,1262
